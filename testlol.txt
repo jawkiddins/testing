@@ -1,1 +1,1 @@
--task StartClient -placeId 0 -universeId 0 -placeVersion 0 -server 26.77.213.143 -port 55555 -parentSessionGuid E8382139-7E03-4CD2-B82B-4556DE039C05 -playTestSessionGuid 49806429-FBB3-443F-ADB9-3467D4B0CF91 -instanceId StudioPlayer_Host
+-task StartClient -placeId 0 -universeId 0 -placeVersion 0 -server 26.77.213.143 -port 55555 -parentSessionGuid 69243D12-54A0-4FE5-8D30-39DA509BABA5 -playTestSessionGuid 67592BA9-8392-490A-83F1-C3B3FECFCE8D -instanceId StudioPlayer_Host
