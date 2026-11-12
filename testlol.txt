@@ -1,1 +1,1 @@
--task StartClient -placeId 0 -universeId 0 -placeVersion 0 -server by.portbuddy.tech:40178 -port 55555 -parentSessionGuid 6FCC8566-A419-4267-A3C8-0C68294E16BE -playTestSessionGuid C579CF18-5FDF-4499-98EB-DD5485C905B3 -instanceId StudioPlayer_Host
+-task StartClient -placeId 0 -universeId 0 -placeVersion 0 -server by.portbuddy.tech -port 40178 -parentSessionGuid 6FCC8566-A419-4267-A3C8-0C68294E16BE -playTestSessionGuid C579CF18-5FDF-4499-98EB-DD5485C905B3 -instanceId StudioPlayer_Host
